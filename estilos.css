@@ -1,0 +1,132 @@
+/* Estilamiento*/
+*{
+  margin:0;
+  padding:0;
+}
+
+#contenedor-principal{
+  width: 1200px;
+  height: 1006px;
+  margin: 0 auto;
+  border: 3px solid #000; 
+}
+
+header {
+height: 246px;
+background-color:white;
+}
+
+#logo{
+  width: 600px;
+  height: 246px;
+  margin: 0 0 0 0;  
+  float: left;
+  }
+
+#titulo{
+  width: 600px;
+  height: 246px; 
+  float: left;  
+  } 
+#tit1{
+  width: 600px;
+  height: 61px; 
+  float: left; 
+  padding-top: 20px; 
+  }   
+  
+#tit2{
+  width: 600px;
+  height: 61px; 
+  float: left;  
+  }  
+  
+p1{
+  font-family: Arial;
+  color: #000080;
+  font-size:2em; 
+  text-align:center;    
+  font-weight: bold;  
+  margin: 0 0 0 13px;
+}	
+
+p2{
+  font-family: Arial;
+  font-weight: bold;   
+  color: black;
+  font-size:1em; 
+  text-align:center;  
+}
+
+p22{
+  font-family: Arial;
+  font-weight: bold;   
+  color: black;
+  font-size:1.2em; 
+  text-align:center;  
+}
+
+p3{
+  font-family: Arial;  
+  color: #FF4500;
+  font-size:1.5em; 
+  text-align:center; 
+  font-weight: bold; 
+  margin: 0 0 0 0;  
+}
+
+
+nav{
+ height: 50px;	
+ background-color:#F3E540; 
+}
+
+#contenido{    
+  height: 704px;
+  margin: 0 0 0 0;
+  width: 1194px; 
+}   
+
+#izq{
+  width: 300px; 
+  height: 710px; 
+  background-color:#27BEE7;  
+  float:left;
+}
+
+#tit_ind{  
+  height: 10px;  
+  padding: 10px 0 0 100px;  
+} 
+
+#indice{  
+  height: 700px;  
+  padding: 10px 0 0 30px;  
+} 
+
+#der{
+   width: 891px;	
+   height: 710px; 1200-3 
+   background-color:white;  
+   border-left: 3px solid #000;     
+   float:left;
+}
+
+#tit{
+   font-family: Arial;  
+    color: black;
+    font-size:0.9em; 
+    text-align:left; 
+    font-weight: bold; 
+    margin: 10px;	
+}
+
+#elem{
+   font-family: Arial;  
+    color: black;
+    font-size:0.9em; 
+    text-align:left; 
+    margin: 0 0 0 20px ;	
+}
+
+
